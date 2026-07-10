@@ -1,0 +1,30 @@
+<svg width="320" height="200" viewBox="0 0 320 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1226"/>
+      <stop offset="100%" stop-color="#0d1b33"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="200" rx="18" fill="url(#pBg)"/>
+  <rect x="1" y="1" width="318" height="198" rx="17" fill="none" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.2"/>
+
+  <text x="24" y="34" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700" fill="#e2e8f0">BI and Visualization</text>
+  <text x="24" y="54" font-family="'Cascadia Code','Fira Code',monospace" font-size="11" fill="#64748b">Power BI · Tableau · Advanced Excel</text>
+
+  <rect x="24" y="70" width="272" height="108" rx="10" fill="#ffffff" fill-opacity="0.03" stroke="#38bdf8" stroke-opacity="0.25"/>
+
+  <circle cx="90" cy="124" r="34" fill="none" stroke="#0f2436" stroke-width="12"/>
+  <circle cx="90" cy="124" r="34" fill="none" stroke="#38bdf8" stroke-width="12" stroke-dasharray="140 214" stroke-linecap="round" transform="rotate(-90 90 124)">
+    <animate attributeName="stroke-dasharray" values="0 214;150 214;150 214" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g>
+    <rect x="160" y="150" width="16" height="20" fill="#2dd4bf"/>
+    <rect x="184" y="130" width="16" height="40" fill="#38bdf8"/>
+    <rect x="208" y="110" width="16" height="60" fill="#7dd3fc"/>
+    <rect x="232" y="140" width="16" height="30" fill="#38bdf8"/>
+    <rect x="256" y="95" width="16" height="75" fill="#8b5cf6"/>
+  </g>
+
+  <text x="24" y="192" font-family="'Cascadia Code','Fira Code',monospace" font-size="11" fill="#38bdf8">1,600+ colleges modeled</text>
+</svg>

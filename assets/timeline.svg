@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060a14"/>
+      <stop offset="100%" stop-color="#0d1b33"/>
+    </linearGradient>
+    <linearGradient id="tLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <pattern id="tgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7dd3fc" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#tBg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#tgrid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#7dd3fc" stroke-opacity="0.15" stroke-width="1.2"/>
+
+  <text x="40" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">Professional Timeline</text>
+
+  <line x1="120" y1="170" x2="1080" y2="170" stroke="url(#tLine)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Node 1: House of Tantu -->
+  <g transform="translate(180,170)">
+    <circle r="9" fill="#0d1b33" stroke="#2dd4bf" stroke-width="3"/>
+    <circle r="3" fill="#2dd4bf"/>
+    <text x="0" y="-32" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="12" fill="#2dd4bf">2021 – 2023</text>
+    <text x="0" y="46" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Data Consultant</text>
+    <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#64748b">House of Tantu</text>
+  </g>
+
+  <!-- Node 2: Beyond Algo -->
+  <g transform="translate(500,170)">
+    <circle r="9" fill="#0d1b33" stroke="#38bdf8" stroke-width="3"/>
+    <circle r="3" fill="#38bdf8"/>
+    <text x="0" y="-32" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="12" fill="#38bdf8">2023 – 2025</text>
+    <text x="0" y="46" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Data Analyst</text>
+    <text x="0" y="66" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#64748b">Beyond Algo</text>
+  </g>
+
+  <!-- Node 3: Virtue Analytics (current, highlighted) -->
+  <g transform="translate(860,170)">
+    <circle r="20" fill="#8b5cf6" fill-opacity="0.18">
+      <animate attributeName="r" values="16;24;16" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.25;0.05;0.25" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="10" fill="#0d1b33" stroke="#8b5cf6" stroke-width="3"/>
+    <circle r="3.5" fill="#c4b5fd"/>
+    <text x="0" y="-36" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="12" fill="#a78bfa">02/2025 – Present</text>
+    <text x="0" y="48" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">Data and Business Analyst</text>
+    <text x="0" y="68" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8b5cf6">Virtue Analytics</text>
+  </g>
+
+  <!-- Future marker -->
+  <g transform="translate(1030,170)">
+    <circle r="7" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-dasharray="3 3">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="-28" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="12" fill="#7dd3fc">Next</text>
+    <text x="0" y="42" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#e2e8f0">AI Automation</text>
+    <text x="0" y="60" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#64748b">Engineer</text>
+  </g>
+</svg>

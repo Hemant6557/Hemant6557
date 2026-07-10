@@ -1,0 +1,29 @@
+<svg width="1400" height="160" viewBox="0 0 1400 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1b33"/>
+      <stop offset="50%" stop-color="#050810"/>
+      <stop offset="100%" stop-color="#0d1b33"/>
+    </linearGradient>
+    <linearGradient id="fLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="160" fill="url(#fBg)"/>
+
+  <path d="M 0 40 C 350 100, 700 -10, 1050 60 S 1400 100, 1400 60" fill="none" stroke="url(#fLine)" stroke-width="1.5" stroke-dasharray="1 8" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="700" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#e2e8f0">Thanks for stopping by</text>
+  <text x="700" y="112" text-anchor="middle" font-family="'Cascadia Code','Fira Code',monospace" font-size="13" fill="#64748b">Turning data into decisions, and decisions into automation.</text>
+
+  <circle cx="530" cy="82" r="3" fill="#38bdf8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="870" cy="82" r="3" fill="#8b5cf6">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
