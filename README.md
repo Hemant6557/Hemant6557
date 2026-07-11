@@ -22,36 +22,7 @@
 <br/>
 
 ## About Me
-
-<img src="https://raw.githubusercontent.com/Hemant6557/Hemant6557/main/assets/hero-background.svg" alt="Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech. I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems. I work at the intersection of business analysis and applied AI — turning ambiguous stakeholder asks into structured requirements, then building the dashboards, pipelines, and automation that make the resulting decisions repeatable." width="100%" />
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**What I bring to a team**
-- 🎯 4+ years translating messy, multi-source data into decisions leadership actually acts on
-- 📊 End-to-end BI delivery: requirements → data model → dashboard → adoption
-- 🤖 Hands-on production experience building AI agents and OCR pipelines, not just prototypes
-- 🤝 Strong stakeholder management, BRD/FRD authorship, and Agile/Scrum delivery
-- 🧭 Comfortable owning ambiguity — I've advised non-technical founders as well as enterprise clients
-
-</td>
-<td width="50%" valign="top">
-
-**Currently**
-- 💼 Data and Business Analyst @ **Virtue Analytics**
-- 🧠 Deepening skills in LangChain, agentic workflows, and applied Gen AI
-- 📈 Shipping ML churn models on Vertex AI and BigQuery for a US fintech client
-- 🎓 B.Tech, Mechanical Engineering — Krishna Institute of Engineering and Technology
-- 📍 Lucknow, India — open to remote and hybrid roles
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Hemant6557/Hemant6557/main/assets/hero-background.svg" alt="Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech. I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems. I work at the intersection of business analysis and applied AI — turning ambiguous stakeholder asks into structured requirements, then building the dashboards, pipelines, and automation that make the resulting decisions repeatable. What I bring to a team: stakeholder-to-decision translation, end-to-end BI delivery, production AI systems, stakeholder management, ambiguity ownership. Currently: Data and Business Analyst at Virtue Analytics, Lucknow, India." width="100%" />
 
 <br/>
 
