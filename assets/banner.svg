@@ -90,7 +90,7 @@
   <!-- Data pipeline accent: Raw Data -> Power BI -> AI, horizontal strip below the card -->
   <g opacity="0.9">
     <path
-      d="M 160 448 L 1240 448"
+      d="M 160 435 L 1240 435"
       fill="none"
       stroke="url(#pipeGrad)"
       stroke-width="2.2"
