@@ -23,7 +23,10 @@
 
 ## About Me
 
-<img src="https://raw.githubusercontent.com/Hemant6557/Hemant6557/main/assets/hero-background.svg" alt="Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech.** I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems." width="100%" />
+<img src="https://raw.githubusercontent.com/Hemant6557/Hemant6557/main/assets/hero-background.svg" alt="Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech. I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems. I work at the intersection of business analysis and applied AI — turning ambiguous stakeholder asks into structured requirements, then building the dashboards, pipelines, and automation that make the resulting decisions repeatable." width="100%" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <table>
 <tr>
