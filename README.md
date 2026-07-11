@@ -23,13 +23,13 @@
 
 ## About Me
 
-<img src="assets/hero-background.svg" alt="" width="100%" 
+<img src="assets/hero-background.svg" alt="" width="100%"/>
 
 > **Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech.** I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems.
 
 <table>
 <tr>
-<td width="50%" valign="top">/>
+<td width="50%" valign="top">
 
 **What I bring to a team**
 - 🎯 4+ years translating messy, multi-source data into decisions leadership actually acts on
