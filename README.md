@@ -27,26 +27,28 @@
 
 > **Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and FinTech.** I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through production — and I'm now focused on pushing further into AI automation and agentic systems.
 
+I work at the intersection of business analysis and applied AI — turning ambiguous stakeholder asks into structured requirements, then building the dashboards, pipelines, and automation that make the resulting decisions repeatable. I've partnered with non-technical founders and enterprise clients alike, carrying projects from BRD through production, and I care as much about adoption as I do about the model or dashboard itself. Lately that means shipping production AI agents and OCR pipelines that remove manual work from Sales, HR, and Marketing workflows, and going deeper on LangChain and agentic system design.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **What I bring to a team**
-- 🎯 4+ years translating messy, multi-source data into decisions leadership actually acts on
-- 📊 End-to-end BI delivery: requirements → data model → dashboard → adoption
-- 🤖 Hands-on production experience building AI agents and OCR pipelines, not just prototypes
-- 🤝 Strong stakeholder management, BRD/FRD authorship, and Agile/Scrum delivery
-- 🧭 Comfortable owning ambiguity — I've advised non-technical founders as well as enterprise clients
+- 🎯 **Stakeholder-to-decision translation**: Converted messy, multi-source data into leadership-ready reporting, accelerating decision cycles by up to 60%
+- 📊 **End-to-end BI delivery**: Owned requirements → data model → dashboard → adoption across 1,600+ college financial-fit records and multiple client engagements
+- 🤖 **Production AI systems**: Architected and fine-tuned AI agents and OCR pipelines running in production, not just prototypes, lifting parsing accuracy by 25%+
+- 🤝 **Stakeholder management**: Authored BRD/FRD documentation and ran Agile/Scrum delivery across EdTech and FinTech teams
+- 🧭 **Ambiguity ownership**: Advised non-technical founders and enterprise clients alike, closing process gaps and strengthening data integrity end-to-end
 
 </td>
 <td width="50%" valign="top">
 
 **Currently**
-- 💼 Data and Business Analyst @ **Virtue Analytics**
-- 🧠 Deepening skills in LangChain, agentic workflows, and applied Gen AI
-- 📈 Shipping ML churn models on Vertex AI and BigQuery for a US fintech client
-- 🎓 B.Tech, Mechanical Engineering — Krishna Institute of Engineering and Technology
-- 📍 Lucknow, India — open to remote and hybrid roles
+- 💼 **Role**: Data and Business Analyst @ **Virtue Analytics**, Lucknow, India
+- 🧠 **Upskilling**: Deepening LangChain, agentic workflows, and applied Gen AI
+- 📈 **Shipping**: ML churn models on Vertex AI and BigQuery for a US fintech client, projected to cut attrition 15%+
+- 🎓 **Education**: B.Tech, Mechanical Engineering — Krishna Institute of Engineering and Technology
+- 📍 **Based in**: Lucknow, India — open to remote and hybrid roles
 
 </td>
 </tr>
