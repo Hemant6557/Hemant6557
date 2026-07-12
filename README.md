@@ -28,8 +28,7 @@
 
 ## Professional Timeline
 
-<img src="assets/timeline.svg" alt="Professional timeline from House of Tantu to Beyond Algo to Virtue Analytics" width="100%" />
-
+<img src="https://raw.githubusercontent.com/Hemant6557/Hemant6557/main/assets/timeline.svg?v=2" alt="Professional timeline from House of Tantu to Beyond Algo to Virtue Analytics" width="100%" />
 <br/>
 
 ## Experience
