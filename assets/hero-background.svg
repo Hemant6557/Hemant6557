@@ -1,4 +1,4 @@
-<svg width="1200" height="980" viewBox="0 0 1200 980" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="747" viewBox="0 0 1200 747" xmlns="http://www.w3.org/2000/svg">
 <defs>
     <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060a14"/>
@@ -17,23 +17,22 @@
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
   </defs>
-<rect width="1200" height="490" rx="24" fill="url(#hbg)"/>
-  <rect width="1200" height="490" rx="24" fill="url(#hgrid)"/>
-  <rect width="1200" height="490" rx="24" fill="url(#hglow)"/>
-  <rect x="1" y="1" width="1198" height="488" rx="23" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="1.5"/>
+<rect width="1200" height="357" rx="24" fill="url(#hbg)"/>
+  <rect width="1200" height="357" rx="24" fill="url(#hgrid)"/>
+  <rect width="1200" height="357" rx="24" fill="url(#hglow)"/>
+  <rect x="1" y="1" width="1198" height="355" rx="23" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="1.5"/>
 
-  <path d="M -20 90 C 250 40, 500 130, 760 60 S 1150 -20, 1230 -40" fill="none" stroke="url(#hpipe)" stroke-width="1.5" stroke-dasharray="1 8">
+  <path d="M 780 -30 C 900 20, 950 -10, 1050 40 S 1180 30, 1230 60" fill="none" stroke="url(#hpipe)" stroke-width="1.5" stroke-dasharray="1 8">
     <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="7s" repeatCount="indefinite"/>
   </path>
   <g opacity="0.7">
-    <circle cx="140" cy="50" r="2" fill="#38bdf8"/>
-    <circle cx="220" cy="35" r="1.5" fill="#7dd3fc"/>
-    <circle cx="1020" cy="70" r="2" fill="#8b5cf6"/>
-    <circle cx="1080" cy="55" r="1.5" fill="#2dd4bf"/>
-    <circle cx="960" cy="30" r="1.5" fill="#7dd3fc"/>
+    <circle cx="860" cy="25" r="1.5" fill="#7dd3fc"/>
+    <circle cx="1020" cy="20" r="2" fill="#8b5cf6"/>
+    <circle cx="1080" cy="45" r="1.5" fill="#2dd4bf"/>
+    <circle cx="960" cy="55" r="1.5" fill="#7dd3fc"/>
   </g>
 
-  <text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">
+  <text x="48" y="56" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">
     <tspan x="48" dy="0" font-weight="700" fill="#e2e8f0">Business and Data Analyst with 4+ years of experience turning complex, multi-source data into</tspan>
 <tspan x="48" dy="26" font-weight="700" fill="#e2e8f0">measurable outcomes across EdTech and FinTech.</tspan>
 <tspan x="48" dy="26" font-weight="400" fill="#b6c2d9">I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools</tspan>
@@ -41,38 +40,38 @@
 <tspan x="48" dy="26" font-weight="400" fill="#b6c2d9">into AI automation and agentic systems.</tspan>
 
   </text>
-<rect x="0" y="514" width="1200" height="442" rx="16" fill="#0b1526" stroke="#27354d" stroke-width="1.5"/>
-  <line x1="600" y1="538" x2="600" y2="932" stroke="#27354d" stroke-width="1.5"/>
-  <text x="48" y="554" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">What I bring to a team</text>
-<text x="48" y="588" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🎯</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder-to-decision translation:</tspan><tspan font-weight="400" fill="#b6c2d9"> Converted messy,</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">multi-source data into leadership-ready reporting,</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">accelerating decision cycles by up to 60%</tspan></tspan>
+<rect x="0" y="373" width="1200" height="360" rx="16" fill="#0b1526" stroke="#27354d" stroke-width="1.5"/>
+   <line x1="600" y1="397" x2="600" y2="709" stroke="#27354d" stroke-width="1.5"/>
+  <text x="48" y="403" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">What I bring to a team</text>
+<text x="48" y="431" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🎯</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder-to-decision translation:</tspan><tspan font-weight="400" fill="#b6c2d9"> Converted messy,</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">multi-source data into leadership-ready reporting, accelerating</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">decision cycles by up to 60%</tspan></tspan>
 </text>
-<text x="48" y="660" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">📊</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">End-to-end BI delivery:</tspan><tspan font-weight="400" fill="#b6c2d9"> Owned requirements → data model →</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">dashboard → adoption across 1,600+ college financial-fit</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">records and multiple client engagements</tspan></tspan>
+<text x="48" y="492" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">📊</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">End-to-end BI delivery:</tspan><tspan font-weight="400" fill="#b6c2d9"> Owned requirements → data model →</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">dashboard → adoption across 1,600+ college financial-fit</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">records and multiple client engagements</tspan></tspan>
 </text>
-<text x="48" y="732" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🤖</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Production AI systems:</tspan><tspan font-weight="400" fill="#b6c2d9"> Architected and fine-tuned AI</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">agents and OCR pipelines running in production, not just</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">prototypes, lifting parsing accuracy by 25%+</tspan></tspan>
+<text x="48" y="553" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🤖</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Production AI systems:</tspan><tspan font-weight="400" fill="#b6c2d9"> Architected and fine-tuned AI agents and</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">OCR pipelines running in production, not just prototypes,</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">lifting parsing accuracy by 25%+</tspan></tspan>
 </text>
-<text x="48" y="804" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🤝</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder management:</tspan><tspan font-weight="400" fill="#b6c2d9"> Authored BRD/FRD documentation and</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">ran Agile/Scrum delivery across EdTech and FinTech teams</tspan></tspan>
+<text x="48" y="614" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🤝</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder management:</tspan><tspan font-weight="400" fill="#b6c2d9"> Authored BRD/FRD documentation and ran</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">Agile/Scrum delivery across EdTech and FinTech teams</tspan></tspan>
 </text>
-<text x="48" y="856" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🧭</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Ambiguity ownership:</tspan><tspan font-weight="400" fill="#b6c2d9"> Advised non-technical founders and</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">enterprise clients alike, closing process gaps and</tspan></tspan><tspan x="78" dy="20"><tspan font-weight="400" fill="#b6c2d9">strengthening data integrity end-to-end</tspan></tspan>
+<text x="48" y="657" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🧭</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Ambiguity ownership:</tspan><tspan font-weight="400" fill="#b6c2d9"> Advised non-technical founders and</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">enterprise clients alike, closing process gaps and</tspan></tspan><tspan x="78" dy="18"><tspan font-weight="400" fill="#b6c2d9">strengthening data integrity end-to-end</tspan></tspan>
 </text>
-  <text x="632" y="554" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">Currently</text>
-<text x="632" y="588" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">💼</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Role:</tspan><tspan font-weight="400" fill="#b6c2d9"> Data and Business Analyst @</tspan><tspan font-weight="700" fill="#f8fafc"> Virtue Analytics,</tspan></tspan><tspan x="662" dy="20"><tspan font-weight="400" fill="#b6c2d9">Lucknow, India</tspan></tspan>
+  <text x="632" y="403" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">Currently</text>
+<text x="632" y="431" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">💼</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Role:</tspan><tspan font-weight="400" fill="#b6c2d9"> Data and Business Analyst @</tspan><tspan font-weight="700" fill="#f8fafc"> Virtue Analytics,</tspan><tspan font-weight="400" fill="#b6c2d9"> Lucknow,</tspan></tspan><tspan x="662" dy="18"><tspan font-weight="400" fill="#b6c2d9">India</tspan></tspan>
 </text>
-<text x="632" y="640" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🧠</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Upskilling:</tspan><tspan font-weight="400" fill="#b6c2d9"> Deepening LangChain, agentic workflows, and</tspan></tspan><tspan x="662" dy="20"><tspan font-weight="400" fill="#b6c2d9">applied Gen AI</tspan></tspan>
+<text x="632" y="474" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🧠</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Upskilling:</tspan><tspan font-weight="400" fill="#b6c2d9"> Deepening LangChain, agentic workflows, and applied</tspan></tspan><tspan x="662" dy="18"><tspan font-weight="400" fill="#b6c2d9">Gen AI</tspan></tspan>
 </text>
-<text x="632" y="692" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">📈</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Shipping:</tspan><tspan font-weight="400" fill="#b6c2d9"> ML churn models on Vertex AI and BigQuery for a</tspan></tspan><tspan x="662" dy="20"><tspan font-weight="400" fill="#b6c2d9">US fintech client, projected to cut attrition 15%+</tspan></tspan>
+<text x="632" y="517" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">📈</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Shipping:</tspan><tspan font-weight="400" fill="#b6c2d9"> ML churn models on Vertex AI and BigQuery for a US</tspan></tspan><tspan x="662" dy="18"><tspan font-weight="400" fill="#b6c2d9">fintech client, projected to cut attrition 15%+</tspan></tspan>
 </text>
-<text x="632" y="744" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
-<tspan fill="#e2e8f0">🎓</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Education:</tspan><tspan font-weight="400" fill="#b6c2d9"> B.Tech, Mechanical Engineering — Krishna</tspan></tspan><tspan x="662" dy="20"><tspan font-weight="400" fill="#b6c2d9">Institute of Engineering and Technology</tspan></tspan>
+<text x="632" y="560" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🎓</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Education:</tspan><tspan font-weight="400" fill="#b6c2d9"> B.Tech, Mechanical Engineering — Krishna Institute</tspan></tspan><tspan x="662" dy="18"><tspan font-weight="400" fill="#b6c2d9">of Engineering and Technology</tspan></tspan>
 </text>
-<text x="632" y="796" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<text x="632" y="603" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
 <tspan fill="#e2e8f0">📍</tspan><tspan x="662" dx="10"><tspan font-weight="700" fill="#f8fafc">Based in:</tspan><tspan font-weight="400" fill="#b6c2d9"> Lucknow, India — open to remote and hybrid roles</tspan></tspan>
 </text>
 </svg>
