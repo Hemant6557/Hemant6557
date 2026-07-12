@@ -1,4 +1,4 @@
-<svg width="1200" height="461" viewBox="0 0 1200 461" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="389" viewBox="0 0 1200 389" xmlns="http://www.w3.org/2000/svg">
 <defs>
     <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060a14"/>
@@ -17,10 +17,10 @@
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
   </defs>
-<rect width="1200" height="461" rx="24" fill="url(#hbg)"/>
-  <rect width="1200" height="461" rx="24" fill="url(#hgrid)"/>
-  <rect width="1200" height="461" rx="24" fill="url(#hglow)"/>
-  <rect x="1" y="1" width="1198" height="459" rx="23" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="1.5"/>
+<rect width="1200" height="389" rx="24" fill="url(#hbg)"/>
+  <rect width="1200" height="389" rx="24" fill="url(#hgrid)"/>
+  <rect width="1200" height="389" rx="24" fill="url(#hglow)"/>
+  <rect x="1" y="1" width="1198" height="387" rx="23" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="1.5"/>
   <line x1="32" y1="169" x2="1168" y2="169" stroke="#27354d" stroke-width="1.5"/>
 <path d="M 780 -30 C 900 20, 950 -10, 1050 40 S 1180 30, 1230 60" fill="none" stroke="url(#hpipe)" stroke-width="1.5" stroke-dasharray="1 8">
     <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="7s" repeatCount="indefinite"/>
@@ -32,66 +32,26 @@
     <circle cx="960" cy="55" r="1.5" fill="#7dd3fc"/>
   </g>
 
-  <text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16">
-    <tspan x="48.0" y="56" font-weight="700" fill="#e2e8f0">Business</tspan>
-<tspan x="135.8" y="56" font-weight="700" fill="#e2e8f0">and</tspan>
-<tspan x="177.3" y="56" font-weight="700" fill="#e2e8f0">Data</tspan>
-<tspan x="227.8" y="56" font-weight="700" fill="#e2e8f0">Analyst</tspan>
-<tspan x="303.3" y="56" font-weight="700" fill="#e2e8f0">with</tspan>
-<tspan x="350.5" y="56" font-weight="700" fill="#e2e8f0">4+</tspan>
-<tspan x="383.0" y="56" font-weight="700" fill="#e2e8f0">years</tspan>
-<tspan x="440.4" y="56" font-weight="700" fill="#e2e8f0">of</tspan>
-<tspan x="466.2" y="56" font-weight="700" fill="#e2e8f0">experience</tspan>
-<tspan x="573.6" y="56" font-weight="700" fill="#e2e8f0">turning</tspan>
-<tspan x="648.1" y="56" font-weight="700" fill="#e2e8f0">complex,</tspan>
-<tspan x="737.4" y="56" font-weight="700" fill="#e2e8f0">multi-source</tspan>
-<tspan x="858.8" y="56" font-weight="700" fill="#e2e8f0">data</tspan>
-<tspan x="907.4" y="56" font-weight="700" fill="#e2e8f0">into</tspan>
-<tspan x="950.8" y="56" font-weight="700" fill="#e2e8f0">measurable</tspan>
-<tspan x="1064.4" y="56" font-weight="700" fill="#e2e8f0">outcomes</tspan>
-<tspan x="48.0" y="79" font-weight="700" fill="#e2e8f0">across</tspan>
-<tspan x="111.3" y="79" font-weight="700" fill="#e2e8f0">EdTech</tspan>
-<tspan x="179.3" y="79" font-weight="700" fill="#e2e8f0">and</tspan>
-<tspan x="218.1" y="79" font-weight="700" fill="#e2e8f0">FinTech.</tspan>
-<tspan x="48.0" y="102" font-weight="400" fill="#b6c2d9">I've</tspan>
-<tspan x="82.8" y="102" font-weight="400" fill="#b6c2d9">shipped</tspan>
-<tspan x="152.4" y="102" font-weight="400" fill="#b6c2d9">Power</tspan>
-<tspan x="207.1" y="102" font-weight="400" fill="#b6c2d9">BI</tspan>
-<tspan x="229.1" y="102" font-weight="400" fill="#b6c2d9">dashboards,</tspan>
-<tspan x="333.6" y="102" font-weight="400" fill="#b6c2d9">ETL</tspan>
-<tspan x="368.7" y="102" font-weight="400" fill="#b6c2d9">pipelines,</tspan>
-<tspan x="452.0" y="102" font-weight="400" fill="#b6c2d9">predictive</tspan>
-<tspan x="538.0" y="102" font-weight="400" fill="#b6c2d9">models,</tspan>
-<tspan x="607.6" y="102" font-weight="400" fill="#b6c2d9">and</tspan>
-<tspan x="644.1" y="102" font-weight="400" fill="#b6c2d9">AI-powered</tspan>
-<tspan x="741.0" y="102" font-weight="400" fill="#b6c2d9">automation</tspan>
-<tspan x="839.4" y="102" font-weight="400" fill="#b6c2d9">tools</tspan>
-<tspan x="884.4" y="102" font-weight="400" fill="#b6c2d9">end-to-end</tspan>
-<tspan x="979.0" y="102" font-weight="400" fill="#b6c2d9">—</tspan>
-<tspan x="1001.3" y="102" font-weight="400" fill="#b6c2d9">from</tspan>
-<tspan x="1044.9" y="102" font-weight="400" fill="#b6c2d9">requirements</tspan>
-<tspan x="48.0" y="125" font-weight="400" fill="#b6c2d9">gathering</tspan>
-<tspan x="130.7" y="125" font-weight="400" fill="#b6c2d9">through</tspan>
-<tspan x="198.6" y="125" font-weight="400" fill="#b6c2d9">production</tspan>
-<tspan x="289.7" y="125" font-weight="400" fill="#b6c2d9">—</tspan>
-<tspan x="310.8" y="125" font-weight="400" fill="#b6c2d9">and</tspan>
-<tspan x="346.0" y="125" font-weight="400" fill="#b6c2d9">I'm</tspan>
-<tspan x="375.8" y="125" font-weight="400" fill="#b6c2d9">now</tspan>
-<tspan x="413.9" y="125" font-weight="400" fill="#b6c2d9">focused</tspan>
-<tspan x="481.7" y="125" font-weight="400" fill="#b6c2d9">on</tspan>
-<tspan x="506.8" y="125" font-weight="400" fill="#b6c2d9">pushing</tspan>
-<tspan x="575.4" y="125" font-weight="400" fill="#b6c2d9">further</tspan>
-<tspan x="635.7" y="125" font-weight="400" fill="#b6c2d9">into</tspan>
-<tspan x="671.5" y="125" font-weight="400" fill="#b6c2d9">AI</tspan>
-<tspan x="692.2" y="125" font-weight="400" fill="#b6c2d9">automation</tspan>
-<tspan x="789.4" y="125" font-weight="400" fill="#b6c2d9">and</tspan>
-<tspan x="824.6" y="125" font-weight="400" fill="#b6c2d9">agentic</tspan>
-<tspan x="889.2" y="125" font-weight="400" fill="#b6c2d9">systems.</tspan>
+  <text x="48" y="56" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16">
+    <tspan x="48" dy="0" font-weight="700" fill="#e2e8f0">Business and Data Analyst with 4+ years of experience turning complex, multi-source data into measurable outcomes across EdTech and</tspan>
+<tspan x="48" dy="23" font-weight="700" fill="#e2e8f0">FinTech.</tspan>
+<tspan x="48" dy="23" font-weight="400" fill="#b6c2d9">I've shipped Power BI dashboards, ETL pipelines, predictive models, and AI-powered automation tools end-to-end — from requirements gathering through</tspan>
+<tspan x="48" dy="23" font-weight="400" fill="#b6c2d9">production — and I'm now focused on pushing further into AI automation and agentic systems.</tspan>
   </text>
 <text x="48" y="207" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">What I bring to a team</text>
-<text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5"><tspan x="48" y="235" fill="#e2e8f0">🎯</tspan><tspan x="78.0" y="235" font-weight="700" fill="#f8fafc">Stakeholder-to-decision</tspan><tspan x="285.6" y="235" font-weight="700" fill="#f8fafc">translation:</tspan><tspan x="390.0" y="235" font-weight="400" fill="#b6c2d9">Converted</tspan><tspan x="473.5" y="235" font-weight="400" fill="#b6c2d9">messy,</tspan><tspan x="532.1" y="235" font-weight="400" fill="#b6c2d9">multi-source</tspan><tspan x="631.2" y="235" font-weight="400" fill="#b6c2d9">data</tspan><tspan x="670.4" y="235" font-weight="400" fill="#b6c2d9">into</tspan><tspan x="704.6" y="235" font-weight="400" fill="#b6c2d9">leadership-ready</tspan><tspan x="836.7" y="235" font-weight="400" fill="#b6c2d9">reporting,</tspan><tspan x="916.0" y="235" font-weight="400" fill="#b6c2d9">accelerating</tspan><tspan x="1014.2" y="235" font-weight="400" fill="#b6c2d9">decision</tspan><tspan x="1081.5" y="235" font-weight="400" fill="#b6c2d9">cycles</tspan><tspan x="1133.6" y="235" font-weight="400" fill="#b6c2d9">by</tspan><tspan x="78.0" y="253" font-weight="400" fill="#b6c2d9">up</tspan><tspan x="101.8" y="253" font-weight="400" fill="#b6c2d9">to</tspan><tspan x="121.6" y="253" font-weight="400" fill="#b6c2d9">60%</tspan></text>
-<text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5"><tspan x="48" y="278" fill="#e2e8f0">📊</tspan><tspan x="78.0" y="278" font-weight="700" fill="#f8fafc">End-to-end</tspan><tspan x="176.0" y="278" font-weight="700" fill="#f8fafc">BI</tspan><tspan x="197.8" y="278" font-weight="700" fill="#f8fafc">delivery:</tspan><tspan x="276.9" y="278" font-weight="400" fill="#b6c2d9">Owned</tspan><tspan x="334.0" y="278" font-weight="400" fill="#b6c2d9">requirements</tspan><tspan x="439.2" y="278" font-weight="400" fill="#b6c2d9">→</tspan><tspan x="456.6" y="278" font-weight="400" fill="#b6c2d9">data</tspan><tspan x="495.2" y="278" font-weight="400" fill="#b6c2d9">model</tspan><tspan x="546.7" y="278" font-weight="400" fill="#b6c2d9">→</tspan><tspan x="564.1" y="278" font-weight="400" fill="#b6c2d9">dashboard</tspan><tspan x="648.2" y="278" font-weight="400" fill="#b6c2d9">→</tspan><tspan x="665.5" y="278" font-weight="400" fill="#b6c2d9">adoption</tspan><tspan x="736.5" y="278" font-weight="400" fill="#b6c2d9">across</tspan><tspan x="789.3" y="278" font-weight="400" fill="#b6c2d9">1,600+</tspan><tspan x="849.7" y="278" font-weight="400" fill="#b6c2d9">college</tspan><tspan x="908.2" y="278" font-weight="400" fill="#b6c2d9">financial-fit</tspan><tspan x="997.2" y="278" font-weight="400" fill="#b6c2d9">records</tspan><tspan x="1057.7" y="278" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="1090.7" y="278" font-weight="400" fill="#b6c2d9">multiple</tspan><tspan x="78.0" y="296" font-weight="400" fill="#b6c2d9">client</tspan><tspan x="124.0" y="296" font-weight="400" fill="#b6c2d9">engagements</tspan></text>
-<text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5"><tspan x="48" y="321" fill="#e2e8f0">🤖</tspan><tspan x="78.0" y="321" font-weight="700" fill="#f8fafc">Production</tspan><tspan x="176.5" y="321" font-weight="700" fill="#f8fafc">AI</tspan><tspan x="199.8" y="321" font-weight="700" fill="#f8fafc">systems:</tspan><tspan x="281.5" y="321" font-weight="400" fill="#b6c2d9">Architected</tspan><tspan x="373.6" y="321" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="408.0" y="321" font-weight="400" fill="#b6c2d9">fine-tuned</tspan><tspan x="491.4" y="321" font-weight="400" fill="#b6c2d9">AI</tspan><tspan x="512.2" y="321" font-weight="400" fill="#b6c2d9">agents</tspan><tspan x="569.5" y="321" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="603.9" y="321" font-weight="400" fill="#b6c2d9">OCR</tspan><tspan x="642.7" y="321" font-weight="400" fill="#b6c2d9">pipelines</tspan><tspan x="716.2" y="321" font-weight="400" fill="#b6c2d9">running</tspan><tspan x="780.2" y="321" font-weight="400" fill="#b6c2d9">in</tspan><tspan x="800.1" y="321" font-weight="400" fill="#b6c2d9">production,</tspan><tspan x="891.5" y="321" font-weight="400" fill="#b6c2d9">not</tspan><tspan x="922.2" y="321" font-weight="400" fill="#b6c2d9">just</tspan><tspan x="955.7" y="321" font-weight="400" fill="#b6c2d9">prototypes,</tspan><tspan x="1047.5" y="321" font-weight="400" fill="#b6c2d9">lifting</tspan><tspan x="1096.1" y="321" font-weight="400" fill="#b6c2d9">parsing</tspan><tspan x="78.0" y="339" font-weight="400" fill="#b6c2d9">accuracy</tspan><tspan x="150.4" y="339" font-weight="400" fill="#b6c2d9">by</tspan><tspan x="173.6" y="339" font-weight="400" fill="#b6c2d9">25%+</tspan></text>
-<text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5"><tspan x="48" y="364" fill="#e2e8f0">🤝</tspan><tspan x="78.0" y="364" font-weight="700" fill="#f8fafc">Stakeholder</tspan><tspan x="185.0" y="364" font-weight="700" fill="#f8fafc">management:</tspan><tspan x="306.9" y="364" font-weight="400" fill="#b6c2d9">Authored</tspan><tspan x="380.5" y="364" font-weight="400" fill="#b6c2d9">BRD/FRD</tspan><tspan x="453.2" y="364" font-weight="400" fill="#b6c2d9">documentation</tspan><tspan x="571.5" y="364" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="604.5" y="364" font-weight="400" fill="#b6c2d9">ran</tspan><tspan x="634.1" y="364" font-weight="400" fill="#b6c2d9">Agile/Scrum</tspan><tspan x="729.4" y="364" font-weight="400" fill="#b6c2d9">delivery</tspan><tspan x="794.4" y="364" font-weight="400" fill="#b6c2d9">across</tspan><tspan x="847.2" y="364" font-weight="400" fill="#b6c2d9">EdTech</tspan><tspan x="904.6" y="364" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="937.5" y="364" font-weight="400" fill="#b6c2d9">FinTech</tspan><tspan x="997.1" y="364" font-weight="400" fill="#b6c2d9">teams</tspan></text>
-<text font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5"><tspan x="48" y="389" fill="#e2e8f0">🧭</tspan><tspan x="78.0" y="389" font-weight="700" fill="#f8fafc">Ambiguity</tspan><tspan x="171.0" y="389" font-weight="700" fill="#f8fafc">ownership:</tspan><tspan x="271.3" y="389" font-weight="400" fill="#b6c2d9">Advised</tspan><tspan x="336.8" y="389" font-weight="400" fill="#b6c2d9">non-technical</tspan><tspan x="444.9" y="389" font-weight="400" fill="#b6c2d9">founders</tspan><tspan x="517.5" y="389" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="552.1" y="389" font-weight="400" fill="#b6c2d9">enterprise</tspan><tspan x="635.4" y="389" font-weight="400" fill="#b6c2d9">clients</tspan><tspan x="690.8" y="389" font-weight="400" fill="#b6c2d9">alike,</tspan><tspan x="736.9" y="389" font-weight="400" fill="#b6c2d9">closing</tspan><tspan x="795.9" y="389" font-weight="400" fill="#b6c2d9">process</tspan><tspan x="859.9" y="389" font-weight="400" fill="#b6c2d9">gaps</tspan><tspan x="902.4" y="389" font-weight="400" fill="#b6c2d9">and</tspan><tspan x="937.0" y="389" font-weight="400" fill="#b6c2d9">strengthening</tspan><tspan x="1048.4" y="389" font-weight="400" fill="#b6c2d9">data</tspan><tspan x="1088.6" y="389" font-weight="400" fill="#b6c2d9">integrity</tspan><tspan x="78.0" y="407" font-weight="400" fill="#b6c2d9">end-to-end</tspan></text>
+<text x="48" y="235" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🎯</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder-to-decision translation:</tspan><tspan font-weight="400" fill="#b6c2d9"> Converted messy, multi-source data into leadership-ready reporting, accelerating decision cycles by up to 60%</tspan></tspan>
+</text>
+<text x="48" y="260" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">📊</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">End-to-end BI delivery:</tspan><tspan font-weight="400" fill="#b6c2d9"> Owned requirements → data model → dashboard → adoption across 1,600+ college financial-fit records and multiple client engagements</tspan></tspan>
+</text>
+<text x="48" y="285" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🤖</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Production AI systems:</tspan><tspan font-weight="400" fill="#b6c2d9"> Architected and fine-tuned AI agents and OCR pipelines running in production, not just prototypes, lifting parsing accuracy by 25%+</tspan></tspan>
+</text>
+<text x="48" y="310" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🤝</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Stakeholder management:</tspan><tspan font-weight="400" fill="#b6c2d9"> Authored BRD/FRD documentation and ran Agile/Scrum delivery across EdTech and FinTech teams</tspan></tspan>
+</text>
+<text x="48" y="335" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5">
+<tspan fill="#e2e8f0">🧭</tspan><tspan x="78" dx="10"><tspan font-weight="700" fill="#f8fafc">Ambiguity ownership:</tspan><tspan font-weight="400" fill="#b6c2d9"> Advised non-technical founders and enterprise clients alike, closing process gaps and strengthening data integrity end-to-end</tspan></tspan>
+</text>
 </svg>
